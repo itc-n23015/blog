@@ -1,5 +1,5 @@
 import Hero from 'components/hero'
-
-export default function About () {
-  return <Hero />
+const About = (title, subtitle) => {
+  return <Hero title='About' subtitle='About development activities' />
 }
+export default About
