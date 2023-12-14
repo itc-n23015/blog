@@ -1,3 +1,9 @@
+import Logo from 'components/logo'
 
-const Footer = () => <footer>FOOTER</footer>
-export default Footer
+export default function Footer () {
+  return (
+    <footer>
+      <Logo />
+    </footer>
+  )
+}
