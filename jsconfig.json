@@ -1,14 +1,6 @@
 {
   "compilerOptions": {
-<<<<<<< HEAD
-    "baseUrl": "."
-=======
-<<<<<<< HEAD
     "baseUrl": ".",
-=======
-    "baseUrl": "."
->>>>>>> main
->>>>>>> chapter2
     "paths": {
       "@/*": ["./*"]
     }
